@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+}
+.internal{
+    width: 200px;
+    margin-left: 50px;
+}
+img{
+    width: 90%;
+    height: 200px;
+}
+#Title{
+    font-weight: bold;
+    font-size: xxx-large;
+
+}

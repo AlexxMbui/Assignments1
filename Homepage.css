@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.Heading{
+    color: #7e3010;
+}
+hr{
+    color: #242460;
+}
+body{
+    width: 70%;
+    margin-left: 150px;
+}
+p{
+    font-style: italic;
+}
